@@ -2,6 +2,10 @@
 
 #include "kaprekarUtils.h"
 
+#include<stdlib.h>
+
+#include<stdio.h>
+
 /**
  * <p>This function tests whether the given input <code>n</code>
  * is a Kaprekar Number or not.  A Kaprekar Number is a non-negative
