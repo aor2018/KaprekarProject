@@ -54,8 +54,8 @@ int isKaprekar(int n) {
     if(second > 0 &&
        first + second == n) {
       return 1;
-    }
-  }
+    }}
+  
   return 0;
   
 }
